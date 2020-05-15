@@ -2,7 +2,6 @@
 script:
   - export
   - hostname
-  - ./build.sh
 
 import:
   - credentials.yml
